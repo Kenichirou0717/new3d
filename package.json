@@ -6,10 +6,10 @@
         "serve": "vue-cli-service serve",
         "build": "vue-cli-service build",
         "lint": "vue-cli-service lint",
-        "postinstall": "express",
         "start": "node server.js"
     },
     "dependencies": {
+        "express": "~3.0.3",
         "core-js": "^3.6.5",
         "deck.gl": "^8.3.6",
         "deckgl-gsi-terrain-layer": "^1.0.1",
