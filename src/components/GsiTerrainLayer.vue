@@ -36,7 +36,7 @@ export default {
                     sources: {},
                     layers: [],
                 },
-                center: [138.73, 35.36],
+                center: [135.043242, 34.690972],
                 zoom: 12,
                 maxZoom: 20,
                 pitch: 60,
