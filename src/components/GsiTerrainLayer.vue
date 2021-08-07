@@ -9,7 +9,7 @@ import { Deck } from '@deck.gl/core';
 import mapboxgl from 'mapbox-gl';
 
 const TERRAIN_IMAGE =
-    'https://cyberjapandata.gsi.go.jp/xyz/dem_png/{z}/{x}/{y}.png';
+    'https://tiles.gsj.jp/tiles/elev/hyogodsm/{z}/{y}/{x}.png';
 const SURFACE_IMAGE =
     'https://cyberjapandata.gsi.go.jp/xyz/seamlessphoto/{z}/{x}/{y}.jpg';
 const ELEVATION_DECODER = {
